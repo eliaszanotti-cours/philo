@@ -137,4 +137,26 @@ Lutte contre le dogmatisme (avoir vérité sans contestation)
 Sceptisisme n'est pas abandon de pensée 
 Preserver de l'erreur
 Condamne pas à l'inaction 
+Agit selon les 4 regles : 
+- Suivre lois de nature
+- Essaie de respect equilibre de son corps
+- Suivre les regles de l'art et de ce qui marche 
+- Suivre les lois, coutumes de son pays 
+
+## Descartes 
+S'inspire des Sceptisisme mais sans en etre un 
+Connaissances viennent de : 
+- Education, enfance
+- Culture, coutumes 
+- Connaissances de nos 5 sens 
+
+Il faut remettre en compte ce que l'on prends pour vrai 
+Faire table rase de nos opinions pour voir ce qui résiste 
+Discours de la méthode (1637) écrit en francais pas latin 
+
+## Philosophie selon Aristote 
+Def elaborée de la philo 
+libre = choisir ses contraintes et non pas ne pas avoir de contraintes 
+Philo = faire usage de la raison (puissance logique)
+Ensemble des jugements sont soumis aux regles de logique 
 
