@@ -7,4 +7,4 @@ Epreuve de 4h à l'écrit
 
 ## Sommaire 
 
-[Chapitre 1](chap1.pdf)
+[Chapitre 1](chap1.md) : Introduction à la Philosophie, pourquoi philosopher ?

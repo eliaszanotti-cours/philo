@@ -56,7 +56,7 @@ Socrate fragilise les individus en montrant qu'ils ne savent pas
 Socrate critique les valeurs du système 
 Société matérialiste (pouvoir, richesse, gloire)
 Selon S ils négligent la raison 
-H en veut toujours plus donc il oublie la raison
+Homme en veut toujours plus donc il oublie la raison
 Parfois ces trois choses sont éphémères 
 La recherche de ces 3 concentre toute energie au lieu de rechercher la raison
 Raison donne une conscience et choisir d'agir bien ou mal
@@ -101,4 +101,40 @@ Il ne cessera pas quitte a mourir
 Philo est vital pour lui 
 Il veut améliorer la vie de la cité et ainsi remet en cause les accusations
 
-[capppp](README.md)
+## Les Hommes et la Vérité 
+Homme n'aiment pas vérité autant qu'ils disent 
+V = souvent cruelle 
+On prefere fermer les yeux sur la vérité
+
+## Russel, Philosophe du XX
+Aristocrate anglais (logicien et mathématicien)
+Participe à refonte des maths 
+Tribunal Russel qui jugent les actes des américains pendant guerre Vietnam
+Pour lui philo évite fausse croyances
+
+Raison a un role pacificateur 
+Permet d'acceder au savoir 
+Raison moyen de défendre justice sociale
+Raison plus efficace que nos croyances (s'appui plus sur la Raison que sur nos croyances)
+Croyances s'appuient sur superstitions, probabilités...
+
+## Vérité et mensonge 
+Mensonge est dégradant 
+Raison = outil de vérité 
+Rapports sociaux se fondent souvent sur la confiance 
+On ne peut pas vivre enseble si tout le monde ment 
+
+## Sceptisisme
+Dev un esprit critique et séparer ou distinguer les choses 
+Savoir ce qui est vrai et faux dans nos pensées 
+Mettre en doute tout ce que l'on pense (tamisser)
+Sceptisisme nait avec Platon 
+Homme ne pense pas a tout dans un monde en mouvement perpetuel 
+Rechercher le vrai dans ce monde en mouvement 
+Homme est pas un etre de Raison (émotions aussi)
+Ni vrai Ni faux
+Lutte contre le dogmatisme (avoir vérité sans contestation)
+Sceptisisme n'est pas abandon de pensée 
+Preserver de l'erreur
+Condamne pas à l'inaction 
+
