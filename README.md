@@ -1,3 +1,3 @@
 # Philosophie
 
-[tests](other_file.md)
+[tests](0-bac-philo.md)
